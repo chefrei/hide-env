@@ -3,13 +3,13 @@
   "displayName": "Hide Env",
   "description": "Automatically hides sensitive information in files like .env, preventing accidental exposure of secrets during screen sharing or live coding.",
   "version": "0.1.0",
-  "publisher": "YOUR_PUBLISHER_ID",
+  "publisher": "chefrei",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/hide-env.git"
+    "url": "https://github.com/chefrei/hide-env.git"
   },
-  "icon": "images/icon.png",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.105.0"
   },

@@ -8,22 +8,9 @@ This is especially useful during screen sharing sessions, video recordings, or l
 
 ## Demo
 
-*(A GIF is the best way to show what your extension does!)*
 
 ![Demo GIF of Hide Env in action](images/demo.gif)
 
-### How to Add Your Own GIF
-
-1.  **Record a short GIF** of the extension in action. A great showcase would be:
-    *   Showing a file with secrets (e.g., an `.env` file).
-    *   Showing how the values are automatically hidden.
-    *   Opening the `.hide` file and commenting out a rule.
-    *   Showing the values reappear in the `.env` file.
-2.  **Recommended tools** for screen recording to GIF:
-    *   [LICEcap](https://www.cockos.com/licecap/) (Windows, macOS) - Simple and lightweight.
-    *   [ScreenToGif](https://www.screentogif.com/) (Windows) - Powerful with a built-in editor.
-    *   [Kap](https://getkap.co/) (macOS) - Modern and easy to use.
-3.  **Save the GIF** as `demo.gif` inside an `images` folder in your project's root. The path in your repository should be `images/demo.gif`. The image link above should then work automatically.
 
 ## Features
 
@@ -57,14 +44,6 @@ To temporarily see the real value, you can comment out the corresponding rule in
 ## Extension Settings
 
 This extension does not add any VS Code settings. Configuration is managed entirely through the `.hide` file.
-
-## Release Notes
-
-See the [CHANGELOG.md](CHANGELOG.md) for detailed information about every release.
-
-## Contributing
-
-This is an open-source project and contributions are welcome! Feel free to open an issue or submit a pull request once the repository is public.
 
 ## License
 
